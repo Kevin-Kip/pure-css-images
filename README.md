@@ -5,6 +5,7 @@ That's right. :smile: Layering a bunch of HTML elements with the right colors an
 This code was written as a completion of the course on CSS images.
 Original course document on building the koala can be found [here](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2).
 
+Using the knowledge gained from the Koala exercise, I built Santa Claus trying to achieve [this](https://codemyui.com/laughing-santa-claus-in-pure-css/) 
 ## You want to use this code?
 Fine by me. Follow these steps:
 1. Clone/download the repository
@@ -26,3 +27,5 @@ Well, there are a number of reasons:
 
 ## Result?
 ![Screenshot1](screenshots/Screenshot1.png)
+
+![Screenshot1](screenshots/Screenshot2.png)
