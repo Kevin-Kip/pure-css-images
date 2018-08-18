@@ -7,7 +7,7 @@ Original course document on building the koala can be found [here](https://mediu
 
 ## You want to use this code?
 Fine by me. Follow these steps:
-1. Clone/denload the repository
+1. Clone/download the repository
 2. Navigate to the root directory
 3. Right click and `open in terminal`
 4. Run `live-server`
