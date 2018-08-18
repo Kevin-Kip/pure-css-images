@@ -21,11 +21,15 @@ Alternatively, run the code the old fashioned `file:///pathToIndexFile` way.
 Well, there are a number of reasons:
 
 1. fun :wink:
-2. to gain a deeper understanding of CSS :muscle:
+2. to gain a deeper understanding of CSS (especially layering) :muscle:
 3. to pass time 
 4. any other reason you want
 
 ## Result?
+Koala from the exercise
+
 ![Screenshot1](screenshots/Screenshot1.png)
+
+Santa Claus
 
 ![Screenshot1](screenshots/Screenshot2.png)
