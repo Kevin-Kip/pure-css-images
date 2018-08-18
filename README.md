@@ -1,5 +1,7 @@
 ## Images created using pure CSS 
-That's right. :smile:
+That's right. :smile: Layering a bunch of HTML elements with the right colors and layering techniques results in amazing images.
+
+
 This code was written as a completion of the course on CSS images.
 Original course document on building the koala can be found [here](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2).
 
