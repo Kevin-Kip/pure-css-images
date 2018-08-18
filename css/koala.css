@@ -1,3 +1,15 @@
+a {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    background: none;
+    left: 40%;
+    text-decoration: white;
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 body {
     background: #0097d6;
 }
